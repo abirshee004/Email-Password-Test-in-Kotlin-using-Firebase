@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411827680089",
+    "project_id": "gfgemailpasswordtesting",
+    "storage_bucket": "gfgemailpasswordtesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411827680089:android:b9b744880f8575dede5248",
+        "android_client_info": {
+          "package_name": "com.example.firebaseemailpasswordtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvY4__Np1Jq_sFKdP3ACp0p24W4oBOpxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
